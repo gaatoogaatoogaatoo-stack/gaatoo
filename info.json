@@ -1,0 +1,9 @@
+{
+  "name": "GAATOO",
+  "symbol": "TOO",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "GAATOO Token on Polygon.",
+  "website": "https://github.com/gaatoogaatoogaatoo-stack/gaatoo/blob/main/gaatoo1.png",
+  "explorer": "https://polygonscan.com/address/0x9eB6c16f886454c170fca46452F0429d3ba3a769"
+}
